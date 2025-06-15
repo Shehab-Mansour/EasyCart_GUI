@@ -1,0 +1,26 @@
+description: Ultralytics best2 model trained on /content/EC1-1/data.yaml
+author: Ultralytics
+date: '2025-04-10T15:59:28.349169'
+version: 8.3.105
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: '0'
+  1: '1'
+  2: '2'
+  3: '3'
+  4: '4'
+  5: '5'
+  6: '6'
+  7: '7'
+  8: '8'
+  9: '9'
+args:
+  batch: 1
+  half: false
